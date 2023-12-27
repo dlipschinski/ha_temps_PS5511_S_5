@@ -1,0 +1,11 @@
+{
+  "domain": "ha_tems_ps5511_s_5",
+  "name": "TEMS PS5511 S 5",
+  "config_flow": true,
+  "documentation": "README",
+  "version": "0.0.1",
+  "codeowners": [
+    "dlipschinski@gmail.com"
+  ],
+  "requirements": ["pyserial==3.5","hexdump==3.3"]
+}
